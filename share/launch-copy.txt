@@ -1,0 +1,11 @@
+SCOPE TALLY
+Keep the extras in scope. Scope Tally helps freelancers record extra client requests, share PDF proposals and remember approved work still to invoice. Free for two active projects, with optional one-time Plus. No subscription, ads or account.
+https://jk-207.github.io/ledger-app-support/scopetally/
+https://apps.apple.com/app/scope-tally/id6833438240
+
+SUITCASE LEDGER
+One trip. Everyone’s essentials. Make packing lists by person, start from six trip templates and see what is still unpacked. Suitcase Ledger is free for two saved trips, with optional one-time Plus. No subscription, ads or account.
+https://jk-207.github.io/ledger-app-support/suitcaseledger/
+https://apps.apple.com/app/suitcase-ledger/id6833095591
+
+Screenshots show fictional example data. Neither app provides cloud sync. Offcut Ledger is awaiting App Store review and is not being promoted as available.
